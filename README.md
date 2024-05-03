@@ -1,4 +1,4 @@
 # datascience_study
-Files with some of the Data Science techniques I learned to use. Can be usefull to lookup more possible ways to treat similar business problems or to get in idea of possible conslusions you potentially could get out from similar data.
-All proyects were done by me for a Data Science postgraduate program at IEBS School in Spain. 
-The biggest one is the final yearly proyect. In some cases it has poorly described logic why I was prefering one tool or algorythm over another, but does show my habilities to experiment, code, approach tasks and get the results. 
+Here are some files showcasing the Data Science techniques that I've learned and applied. These can be useful if you're assessing my knowledge of Python libraries and algorithms, as well as my ability to generate and explore hypotheses. If you're seeking inspiration for new approaches to similar business problems, you might find these projects beneficial. All these projects were completed by me as part of a Data Science postgraduate program at IEBS School in Spain.
+
+The most extensive project among these is the final yearly project. In some instances, the logic behind my preference for one tool or algorithm over another may not be thoroughly explained. However, these projects demonstrate my abilities to experiment, code, tackle tasks, and achieve results.
